@@ -1,0 +1,28 @@
+{
+  "cssImports": {
+    "/Applications/MAMP/htdocs/routepackersnext/app/page.tsx": [
+      "/Applications/MAMP/htdocs/routepackersnext/node_modules/swiper/swiper.min.css",
+      "/Applications/MAMP/htdocs/routepackersnext/node_modules/swiper/modules/pagination/pagination.min.css"
+    ],
+    "/Applications/MAMP/htdocs/routepackersnext/app/layout.tsx": [
+      "/Applications/MAMP/htdocs/routepackersnext/node_modules/next/font/google/target.css?{\"path\":\"app/layout.tsx\",\"import\":\"Rubik\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"rubik\"}",
+      "/Applications/MAMP/htdocs/routepackersnext/app/globals.css"
+    ]
+  },
+  "cssModules": {
+    "/Applications/MAMP/htdocs/routepackersnext/app/page": [
+      "/Applications/MAMP/htdocs/routepackersnext/app/globals.css",
+      "/Applications/MAMP/htdocs/routepackersnext/node_modules/next/font/google/target.css?{\"path\":\"app/layout.tsx\",\"import\":\"Rubik\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"rubik\"}",
+      "/Applications/MAMP/htdocs/routepackersnext/node_modules/swiper/swiper.min.css",
+      "/Applications/MAMP/htdocs/routepackersnext/node_modules/swiper/modules/pagination/pagination.min.css"
+    ],
+    "/Applications/MAMP/htdocs/routepackersnext/app/faq/page": [
+      "/Applications/MAMP/htdocs/routepackersnext/app/globals.css",
+      "/Applications/MAMP/htdocs/routepackersnext/node_modules/next/font/google/target.css?{\"path\":\"app/layout.tsx\",\"import\":\"Rubik\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"rubik\"}"
+    ],
+    "/Applications/MAMP/htdocs/routepackersnext/app/blog/page": [
+      "/Applications/MAMP/htdocs/routepackersnext/app/globals.css",
+      "/Applications/MAMP/htdocs/routepackersnext/node_modules/next/font/google/target.css?{\"path\":\"app/layout.tsx\",\"import\":\"Rubik\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"rubik\"}"
+    ]
+  }
+}
