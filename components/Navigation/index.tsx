@@ -20,8 +20,8 @@ export const Header = () => {
                     <Link prefetch={false} className="hover:text-yellow-rp delay-easy" href={'/blog'}>Blog</Link>
                     <Link prefetch={false} className="hover:text-yellow-rp delay-150" href={'/faq'}>FAQ</Link>
                 </ul>
-                <Link href={'tel: +17144223193'} className="bg-blue-rp text-xl rounded-3xl text-white animate-pulse py-4 px-8">
-                    (714) 422-3193 
+                <Link href={'tel: +16265500468'} className="bg-blue-rp text-xl rounded-3xl text-white animate-pulse py-4 px-8">
+                    (626) 550-0468
                 </Link>
             </div>
             <div className="flex flex-col justify-center items-center lg:hidden">
